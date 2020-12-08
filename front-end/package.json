@@ -1,0 +1,21 @@
+{
+  "name": "voice-assistant",
+  "version": "0.0.1",
+  "description": "A voice Assistant",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [],
+  "author": "Sooraj Krishnan V S",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.7"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "electron": "^3.1.0",
+    "python-shell": "^1.0.7"
+  }
+}

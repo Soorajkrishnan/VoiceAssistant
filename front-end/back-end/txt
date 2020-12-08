@@ -1,0 +1,3 @@
+print(os.path.isdir("/home/el")) //cheking a folder is present or not
+print(os.path.exists("/home/el/myfile.txt"))
+os.getlogin() // logined username

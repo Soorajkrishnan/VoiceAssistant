@@ -1,0 +1,18 @@
+ls
+man
+sort
+shutdown
+cat
+ping
+mkdir
+rmdir
+mv
+cp
+apt
+volume control
+brightness control
+music control
+app opening
+adduser
+remove users
+date
